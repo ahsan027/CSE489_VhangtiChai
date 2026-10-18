@@ -14,11 +14,11 @@ A Taka change calculator for Android. Type an amount and see exactly which notes
 
 <br>
 
-<img src="docs/Screenshots_of_the_app/images/phone-688.png" width="250" alt="VangtiChai showing 688 Taka, made of one of each note">
+<img src="docs/Screenshots_of_the_app/phone-688.png" width="250" alt="VangtiChai showing 688 Taka, made of one of each note">
 &nbsp;&nbsp;
-<img src="docs/Screenshots_of_the_app/images/phone-6880.png" width="250" alt="VangtiChai showing 6880 Taka, made of 19 notes">
+<img src="docs/Screenshots_of_the_app/phone-6880.png" width="250" alt="VangtiChai showing 6880 Taka, made of 19 notes">
 &nbsp;&nbsp;
-<img src="docs/Screenshots_of_the_app/images/phone-68.png" width="250" alt="VangtiChai showing 68 Taka, with unused notes faded out">
+<img src="docs/Screenshots_of_the_app/phone-68.png" width="250" alt="VangtiChai showing 68 Taka, with unused notes faded out">
 
 </div>
 
