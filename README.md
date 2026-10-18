@@ -14,11 +14,11 @@ A Taka change calculator for Android. Type an amount and see exactly which notes
 
 <br>
 
-<img src="docs/images/phone-688.png" width="250" alt="VangtiChai showing 688 Taka, made of one of each note">
+<img src="Screenshots_of_the_app/images/phone-688.png" width="250" alt="VangtiChai showing 688 Taka, made of one of each note">
 &nbsp;&nbsp;
-<img src="docs/images/phone-6880.png" width="250" alt="VangtiChai showing 6880 Taka, made of 19 notes">
+<img src="Screenshots_of_the_app/images/phone-6880.png" width="250" alt="VangtiChai showing 6880 Taka, made of 19 notes">
 &nbsp;&nbsp;
-<img src="docs/images/phone-68.png" width="250" alt="VangtiChai showing 68 Taka, with unused notes faded out">
+<img src="Screenshots_of_the_app/images/phone-68.png" width="250" alt="VangtiChai showing 68 Taka, with unused notes faded out">
 
 </div>
 
@@ -73,9 +73,9 @@ It takes the largest note that fits, then repeats with what is left. The Taka no
 The change table splits into two columns and the keypad grows to four columns.
 
 <p align="center">
-  <img src="docs/images/phone-land-688.png" width="400" alt="Phone in landscape, 688 Taka">
+  <img src="Screenshots_of_the_app/images/phone-land-688.png" width="400" alt="Phone in landscape, 688 Taka">
   &nbsp;
-  <img src="docs/images/phone-land-6880.png" width="400" alt="Phone in landscape, 6880 Taka">
+  <img src="Screenshots_of_the_app/images/phone-land-6880.png" width="400" alt="Phone in landscape, 6880 Taka">
 </p>
 
 ### Tablet
@@ -83,17 +83,17 @@ The change table splits into two columns and the keypad grows to four columns.
 Tablet layouts use the same arrangement, scaled up, with a subtitle in the app bar.
 
 <p align="center">
-  <img src="docs/images/tablet-688.png" width="280" alt="Tablet in portrait, 688 Taka">
+  <img src="Screenshots_of_the_app/images/tablet-688.png" width="280" alt="Tablet in portrait, 688 Taka">
   &nbsp;
-  <img src="docs/images/tablet-land-688.png" width="460" alt="Tablet in landscape, 688 Taka">
+  <img src="Screenshots_of_the_app/images/tablet-land-688.png" width="460" alt="Tablet in landscape, 688 Taka">
 </p>
 
 ### Input limit and launcher icon
 
 <p align="center">
-  <img src="docs/images/phone-limit.png" width="230" alt="The amount at the 9-digit limit, with the caption 'Up to 9 digits'">
+  <img src="Screenshots_of_the_app/images/phone-limit.png" width="230" alt="The amount at the 9-digit limit, with the caption 'Up to 9 digits'">
   &nbsp;&nbsp;
-  <img src="docs/images/launcher-icons.png" width="500" alt="Launcher icon: round, squircle and themed monochrome versions">
+  <img src="Screenshots_of_the_app/images/launcher-icons.png" width="500" alt="Launcher icon: round, squircle and themed monochrome versions">
 </p>
 
 ## 📐 Layouts
