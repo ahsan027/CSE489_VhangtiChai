@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="docs/images/logo.png" width="112" alt="VangtiChai app icon">
-
 # VangtiChai
 
 **ভাংতি চাই** &nbsp;·&nbsp; *"I need change"*
