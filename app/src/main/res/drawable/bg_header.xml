@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Header background on Android 5.0 and 5.1 (API 21-22): the green gradient with rounded bottom
+    corners. These versions can't size or place layer-list items, so the two soft glows are left
+    out here; drawable-v23/bg_header.xml adds them on API 23 and newer.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="315"
+        android:endColor="@color/header_gradient_end"
+        android:startColor="@color/header_gradient_start" />
+    <corners
+        android:bottomLeftRadius="@dimen/header_corner_radius"
+        android:bottomRightRadius="@dimen/header_corner_radius" />
+</shape>
